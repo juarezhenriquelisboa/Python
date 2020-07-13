@@ -11,5 +11,3 @@ def imprime_maior(mensagem, *numeros):
 imprime_maior("Maior:", 5,4,3,1)
 imprime_maior("Max:", *[1, 7, 9])
 
-:q
-
