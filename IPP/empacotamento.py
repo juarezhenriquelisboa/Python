@@ -1,4 +1,4 @@
-def barra(n=10, c="*")
+def barra(n=10, c="*"):
     print(c*n)
 
 L = [ [5, "-"], [10, "*"], [5] ]
